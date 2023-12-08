@@ -1,3 +1,5 @@
+Bir kod takımındaki herkes tarafından kolayca anlaşılabiliyorsa temizdir.Temiz kod sadece yazan kişi tarafından değil, aynı zamanda diğer geliştiriciler tarafından da geliştirilebilir. Temiz bir kod yazıldığında, anlaşılabilirliğin yanı sıra okunabilirlik, değiştirilebilirlik ve geliştirilebilirlik de artar.
+_____________________________________
 ## Genel Kurallar
 1. Standartlara uyun.
 2. Basit tutun; karmaşıklığı mümkün olduğunca azaltın.
